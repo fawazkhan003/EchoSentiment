@@ -1,6 +1,6 @@
 # **EchoSentiment**
 
-###Discaimer: These instructions have been revised with the assistance of AI for clarity.###
+### Discaimer: These instructions have been revised with the assistance of AI for clarity. ###
 
 ## **Twitter API Requirements**  
 
@@ -18,7 +18,7 @@ export TWITTER_BEARER_TOKEN="your_bearer_token_here"
 On Windows (PowerShell):
 $env:TWITTER_BEARER_TOKEN="your_bearer_token_here"
 
-#### ##In PyCharm##
+#### **In PyCharm**
 Go to Run → Edit Configurations.
 Under Environment Variables, add:
 
