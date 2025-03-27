@@ -28,7 +28,7 @@ TWITTER_BEARER_TOKEN=your_bearer_token_here
 
 Click OK and Apply.
 
-## **META API Requirements**  
+## **META API Requirements (NOT FUNCTIONAL YET)**  
 To query the Meta API, you must first obtain and allocate an **Access Token** to the environment variable 'META_ACCESS_TOKEN'.
 
 An access token can be obtained via the Meta Development Portal after creating a developer account at [https://developers.facebook.com/](https://developers.facebook.com/).
