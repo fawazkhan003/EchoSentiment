@@ -1,7 +1,7 @@
 # ..........NOT FUNCTIONAL..........
 
 '''
-Tutorial at:
+Tutorial for code at:
 
 https://www.youtube.com/watch?v=QpzMWQvxXWk&t=2445s
 
