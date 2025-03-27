@@ -11,7 +11,7 @@ A bearer token can be obtained via the **X Development Portal** after creating a
 ### **Setting Up the Bearer Token (select one method)**  
 
 
-#### **Globally (System-Wide)**  
+#### **-> Globally (System-Wide)**  
 On **Mac/Linux**, open a terminal and run:
 
 export TWITTER_BEARER_TOKEN="your_bearer_token_here"
@@ -20,7 +20,7 @@ On Windows (PowerShell):
 $env:TWITTER_BEARER_TOKEN="your_bearer_token_here"
 
 
-#### **In PyCharm**
+#### **-> In PyCharm**
 Go to Run → Edit Configurations.
 Under Environment Variables, add:
 
