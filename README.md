@@ -1,6 +1,7 @@
 # EchoSentiment
 
 **Twitter API requirements**
+
 To query the twitter API you must first obtain and allocate a bearer token to the environment variable "TWITTER_BEARER_TOKEN". 
 
 A bearer token can be obtained via the x development portal after creating a developer account at https://developer.x.com/en/portal/dashboard.
